@@ -1,7 +1,8 @@
 from subprocess import call
+from creds import *
 import threading
 import time
-import creds
+
 
 
 
